@@ -1,0 +1,1104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202604071041328N76YN</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202604071041324QM28X</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>BEING SAFE ONLINE</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Concreción curricular</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Richard Taylor Pleite</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Esta Situación de Aprendizaje está dirigida al alumnado de 5º de Educación Primaria (A1-A2) dentro del área de Lengua Extranjera: Inglés.
+
+El objetivo principal es que el alumnado desarrolle su competencia comunicativa en inglés mientras adquiere habilidades relacionadas con la competencia digital, especialmente en el uso seguro y responsable de internet y las redes sociales.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1775471910761</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Título. Descripción de la SdA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Título. Descripción de la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Título. Descripción de la SdA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odePageId>
+      <odeBlockId>block-1775471932290-l7ta20myz</odeBlockId>
+      <blockName>Descripción de la situación de aprendizaje</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odePageId>
+          <odeBlockId>block-1775471932290-l7ta20myz</odeBlockId>
+          <odeIdeviceId>idevice-1775471932288-xoacvhq6m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta Situación de Aprendizaje está dirigida al alumnado de 5º de Educación Primaria (A1-A2) dentro del área de Lengua Extranjera: Inglés.</p>
+<p>El objetivo principal es que el alumnado desarrolle su competencia comunicativa en inglés mientras adquiere habilidades relacionadas con la competencia digital, especialmente en el uso seguro y responsable de internet y las redes sociales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775471932288-xoacvhq6m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta Situación de Aprendizaje está dirigida al alumnado de 5º de Educación Primaria (A1-A2) dentro del área de Lengua Extranjera: Inglés.</p>\n<p>El objetivo principal es que el alumnado desarrolle su competencia comunicativa en inglés mientras adquiere habilidades relacionadas con la competencia digital, especialmente en el uso seguro y responsable de internet y las redes sociales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odePageId>
+      <odeBlockId>block-1775471978992-13f839g04</odeBlockId>
+      <blockName>Datos básicos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odePageId>
+          <odeBlockId>block-1775471978992-13f839g04</odeBlockId>
+          <odeIdeviceId>idevice-1775471978990-0pzsmv305</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Etapa: Educación Primaria</li>
+<li>Nivel: 5º de Primaria</li>
+<li>Área: Lengua Extranjera (Inglés)</li>
+<li>Relación interdisciplinar: Educación en Valores / Competencia Digital</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775471978990-0pzsmv305","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<ul>\n<li>Etapa: Educación Primaria</li>\n<li>Nivel: 5º de Primaria</li>\n<li>Área: Lengua Extranjera (Inglés)</li>\n<li>Relación interdisciplinar: Educación en Valores / Competencia Digital</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odePageId>
+      <odeBlockId>block-1775472035325-vmalyr7mj</odeBlockId>
+      <blockName>Agrupamientos y organización espacial</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odePageId>
+          <odeBlockId>block-1775472035325-vmalyr7mj</odeBlockId>
+          <odeIdeviceId>idevice-1775472035324-5157e6bnn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se emplearán diferentes agrupamientos siguiendo los principios del DUA:</p>
+<ul>
+<li>Gran grupo (presentación de contenidos)</li>
+<li>Trabajo en parejas (diálogos y role-play)</li>
+<li>Grupos cooperativos (creación de productos)</li>
+<li>Trabajo individual (reflexión y evaluación)</li>
+</ul>
+<p>Espacios:</p>
+<ul>
+<li>Aula ordinaria</li>
+<li>Aula TIC (si disponible)<br /> <br /> </li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472035324-5157e6bnn","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>Se emplearán diferentes agrupamientos siguiendo los principios del DUA:</p>\n<ul>\n<li>Gran grupo (presentación de contenidos)</li>\n<li>Trabajo en parejas (diálogos y role-play)</li>\n<li>Grupos cooperativos (creación de productos)</li>\n<li>Trabajo individual (reflexión y evaluación)</li>\n</ul>\n<p>Espacios:</p>\n<ul>\n<li>Aula ordinaria</li>\n<li>Aula TIC (si disponible)<br /> <br /> </li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odePageId>
+      <odeBlockId>block-1775472102226-srq5odjlo</odeBlockId>
+      <blockName>Temporalización</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odePageId>
+          <odeBlockId>block-1775472102226-srq5odjlo</odeBlockId>
+          <odeIdeviceId>idevice-1775472102224-e0ujs2nyp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Duración: 6 sesiones</li>
+<li>Duración por sesión: 45-60 minutos</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472102224-e0ujs2nyp","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<ul>\n<li>Duración: 6 sesiones</li>\n<li>Duración por sesión: 45-60 minutos</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odePageId>
+      <odeBlockId>block-1775472146226-rphvvbuf7</odeBlockId>
+      <blockName>Productos finales del alumnado</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odePageId>
+          <odeBlockId>block-1775472146226-rphvvbuf7</odeBlockId>
+          <odeIdeviceId>idevice-1775472146223-l5h2nm13b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El alumnado desarrollará:</p>
+<p>1. Infografía interactiva</p>
+<ul>
+<li>Tema: “How to be safe online”</li>
+<li>Herramientas: Canva / Genially</li>
+<li>Incluirá elementos interactivos (iconos, enlaces, etc.)</li>
+</ul>
+<p>2. Vídeo corto</p>
+<ul>
+<li>Tema: situaciones de riesgo en internet y cómo actuar</li>
+<li>Formato: role-play en inglés</li>
+<li>Duración: 1-2 minutos</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472146223-l5h2nm13b","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>El alumnado desarrollará:</p>\n<p>1. Infografía interactiva</p>\n<ul>\n<li>Tema: “How to be safe online”</li>\n<li>Herramientas: Canva / Genially</li>\n<li>Incluirá elementos interactivos (iconos, enlaces, etc.)</li>\n</ul>\n<p>2. Vídeo corto</p>\n<ul>\n<li>Tema: situaciones de riesgo en internet y cómo actuar</li>\n<li>Formato: role-play en inglés</li>\n<li>Duración: 1-2 minutos</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odePageId>
+      <odeBlockId>block-1775472255120-g4h0qawna</odeBlockId>
+      <blockName>Herramientas tecnológicas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odePageId>
+          <odeBlockId>block-1775472255120-g4h0qawna</odeBlockId>
+          <odeIdeviceId>idevice-1775472255118-oggy1uke7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Canva / Genially (infografía)</li>
+<li>iMovie / Clipchamp / móvil (vídeo)</li>
+<li>YouTube (vídeos de apoyo)</li>
+<li>Wordwall / Liveworksheets (actividades interactivas)</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472255118-oggy1uke7","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<ul>\n<li>Canva / Genially (infografía)</li>\n<li>iMovie / Clipchamp / móvil (vídeo)</li>\n<li>YouTube (vídeos de apoyo)</li>\n<li>Wordwall / Liveworksheets (actividades interactivas)</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775472335173-hj7zva69q</odePageId>
+  <odeParentPageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775472335173-hj7zva69q</odePageId>
+      <odeBlockId>block-1775472471469-6svcbtxuy</odeBlockId>
+      <blockName>Justificación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775472335173-hj7zva69q</odePageId>
+          <odeBlockId>block-1775472471469-6svcbtxuy</odeBlockId>
+          <odeIdeviceId>idevice-1775472471466-wskrwtohb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta SdA responde a la necesidad de integrar el aprendizaje del inglés con el desarrollo de la competencia digital, especialmente en edades tempranas donde el uso de dispositivos es cada vez más frecuente.</p>
+<p>Se pretende que el alumnado no solo aprenda vocabulario y estructuras lingüísticas, sino que también desarrolle una actitud crítica y responsable hacia el uso de internet.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472471466-wskrwtohb","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>Esta SdA responde a la necesidad de integrar el aprendizaje del inglés con el desarrollo de la competencia digital, especialmente en edades tempranas donde el uso de dispositivos es cada vez más frecuente.</p>\n<p>Se pretende que el alumnado no solo aprenda vocabulario y estructuras lingüísticas, sino que también desarrolle una actitud crítica y responsable hacia el uso de internet.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775472335173-hj7zva69q</odePageId>
+      <odeBlockId>block-1775472493449-izsdaro2m</odeBlockId>
+      <blockName>Relación con ODS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775472335173-hj7zva69q</odePageId>
+          <odeBlockId>block-1775472493449-izsdaro2m</odeBlockId>
+          <odeIdeviceId>idevice-1775472493448-ihl8ye9fg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>ODS 4: Educación de calidad</li>
+<li>ODS 16: Paz, justicia e instituciones sólidas (uso responsable y seguro)</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472493448-ihl8ye9fg","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<ul>\n<li>ODS 4: Educación de calidad</li>\n<li>ODS 16: Paz, justicia e instituciones sólidas (uso responsable y seguro)</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775472335173-hj7zva69q</odePageId>
+      <odeBlockId>block-1775472518666-is5qhz47g</odeBlockId>
+      <blockName>Retos del siglo XXI</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775472335173-hj7zva69q</odePageId>
+          <odeBlockId>block-1775472518666-is5qhz47g</odeBlockId>
+          <odeIdeviceId>idevice-1775472518665-gpyu6vxoc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Uso responsable de la tecnología</li>
+<li>Seguridad digital</li>
+<li>Pensamiento crítico</li>
+<li>Ciudadanía digital</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472518665-gpyu6vxoc","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<ul>\n<li>Uso responsable de la tecnología</li>\n<li>Seguridad digital</li>\n<li>Pensamiento crítico</li>\n<li>Ciudadanía digital</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775472353846-kd76uivvo</odePageId>
+  <odeParentPageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775472353846-kd76uivvo</odePageId>
+      <odeBlockId>block-1775472549800-13vjrc53o</odeBlockId>
+      <blockName>Competencias clave</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775472353846-kd76uivvo</odePageId>
+          <odeBlockId>block-1775472549800-13vjrc53o</odeBlockId>
+          <odeIdeviceId>idevice-1775472549799-mctfj5g8h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Competencia en comunicación lingüística</li>
+<li>Competencia digital</li>
+<li>Competencia personal, social y aprender a aprender</li>
+<li>Competencia ciudadana</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472549799-mctfj5g8h","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<ul>\n<li>Competencia en comunicación lingüística</li>\n<li>Competencia digital</li>\n<li>Competencia personal, social y aprender a aprender</li>\n<li>Competencia ciudadana</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775472353846-kd76uivvo</odePageId>
+      <odeBlockId>block-1775472574417-aaefe632p</odeBlockId>
+      <blockName>Competencias específicas (Inglés)</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775472353846-kd76uivvo</odePageId>
+          <odeBlockId>block-1775472574417-aaefe632p</odeBlockId>
+          <odeIdeviceId>idevice-1775472574415-d9tt46vcb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Comprender textos orales y escritos sencillos</li>
+<li>Producir mensajes orales breves</li>
+<li>Interactuar en situaciones cotidianas</li>
+<li>Mediar en situaciones simples</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472574415-d9tt46vcb","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<ul>\n<li>Comprender textos orales y escritos sencillos</li>\n<li>Producir mensajes orales breves</li>\n<li>Interactuar en situaciones cotidianas</li>\n<li>Mediar en situaciones simples</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775472353846-kd76uivvo</odePageId>
+      <odeBlockId>block-1775472602116-p0mosmh25</odeBlockId>
+      <blockName>Saberes básicos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775472353846-kd76uivvo</odePageId>
+          <odeBlockId>block-1775472602116-p0mosmh25</odeBlockId>
+          <odeIdeviceId>idevice-1775472602115-2d54ahqlf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Vocabulario: internet, personal information, feelings</li>
+<li>Estructuras:Can / can’t</li>
+<li>Imperatives (Don’t share, Be careful…)</li>
+<li>Estrategias de comprensión</li>
+<li>Uso responsable de tecnología</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472602115-2d54ahqlf","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<ul>\n<li>Vocabulario: internet, personal information, feelings</li>\n<li>Estructuras:Can / can’t</li>\n<li>Imperatives (Don’t share, Be careful…)</li>\n<li>Estrategias de comprensión</li>\n<li>Uso responsable de tecnología</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775472353846-kd76uivvo</odePageId>
+      <odeBlockId>block-1775472624233-ctt9zrknt</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775472353846-kd76uivvo</odePageId>
+          <odeBlockId>block-1775472624233-ctt9zrknt</odeBlockId>
+          <odeIdeviceId>idevice-1775472624231-csufki0el</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Comprende instrucciones básicas relacionadas con seguridad digital</li>
+<li>Produce mensajes sencillos en inglés sobre normas de uso de internet</li>
+<li>Participa en interacciones orales guiadas</li>
+<li>Crea un producto digital sencillo (infografía/vídeo)</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472624231-csufki0el","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<ul>\n<li>Comprende instrucciones básicas relacionadas con seguridad digital</li>\n<li>Produce mensajes sencillos en inglés sobre normas de uso de internet</li>\n<li>Participa en interacciones orales guiadas</li>\n<li>Crea un producto digital sencillo (infografía/vídeo)</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775472368634-gf6ssjor2</odePageId>
+  <odeParentPageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775472368634-gf6ssjor2</odePageId>
+      <odeBlockId>block-1775472726382-1l6iys7zu</odeBlockId>
+      <blockName>Metodologías</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775472368634-gf6ssjor2</odePageId>
+          <odeBlockId>block-1775472726382-1l6iys7zu</odeBlockId>
+          <odeIdeviceId>idevice-1775472726380-8ktlz1gnc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se empleará principalmente:</p>
+<ul>
+<li>Aprendizaje Basado en Proyectos (ABP)</li>
+<li>Aprendizaje cooperativo</li>
+<li>Gamificación (actividades tipo juego)<br /></li>
+</ul>
+<p>El alumnado trabajará de forma activa, participativa y significativa, construyendo su propio aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472726380-8ktlz1gnc","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>Se empleará principalmente:</p>\n<ul>\n<li>Aprendizaje Basado en Proyectos (ABP)</li>\n<li>Aprendizaje cooperativo</li>\n<li>Gamificación (actividades tipo juego)<br /></li>\n</ul>\n<p>El alumnado trabajará de forma activa, participativa y significativa, construyendo su propio aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775472390884-ktxbxi70c</odePageId>
+  <odeParentPageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775472390884-ktxbxi70c</odePageId>
+      <odeBlockId>block-1775472773896-mp1ok36rm</odeBlockId>
+      <blockName>Vinculación con proyectos y programas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775472390884-ktxbxi70c</odePageId>
+          <odeBlockId>block-1775472773896-mp1ok36rm</odeBlockId>
+          <odeIdeviceId>idevice-1775472773896-rlwo7fiis</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>PLEI (Plan de Lectura, Escritura e Investigación)</li>
+<li>Plan Digital de Centro (PDC)</li>
+<li>Plan de Acción Tutorial (PAT)<br /></li>
+</ul>
+<p>La SdA contribuye al desarrollo de la competencia digital y a la educación en valores.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472773896-rlwo7fiis","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<ul>\n<li>PLEI (Plan de Lectura, Escritura e Investigación)</li>\n<li>Plan Digital de Centro (PDC)</li>\n<li>Plan de Acción Tutorial (PAT)<br /></li>\n</ul>\n<p>La SdA contribuye al desarrollo de la competencia digital y a la educación en valores.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775472406513-qzmx5eqx4</odePageId>
+  <odeParentPageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775472406513-qzmx5eqx4</odePageId>
+      <odeBlockId>block-1775472805746-ppx4yb3jy</odeBlockId>
+      <blockName>Actividades</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775472406513-qzmx5eqx4</odePageId>
+          <odeBlockId>block-1775472805746-ppx4yb3jy</odeBlockId>
+          <odeIdeviceId>idevice-1775472805744-hlenkswb5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Charla sobre seguridad en internet (Policía / experto TIC)</li>
+<li>Visionado de vídeos educativos</li>
+<li>Participación en el Día de Internet Seguro</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472805744-hlenkswb5","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<ul>\n<li>Charla sobre seguridad en internet (Policía / experto TIC)</li>\n<li>Visionado de vídeos educativos</li>\n<li>Participación en el Día de Internet Seguro</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775472427242-m7wjsc8qj</odePageId>
+  <odeParentPageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odeParentPageId>
+  <pageName>6. Atribución y descarga</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775472427242-m7wjsc8qj</odePageId>
+      <odeBlockId>block-1775472835510-d18e574fw</odeBlockId>
+      <blockName>Licencia</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775472427242-m7wjsc8qj</odePageId>
+          <odeBlockId>block-1775472835510-d18e574fw</odeBlockId>
+          <odeIdeviceId>idevice-1775472835509-qurtyd20l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este recurso se distribuye bajo licencia:</p>
+<p><strong>Creative Commons BY-SA 4.0</strong></p>
+<p>Se incluirá un enlace para la descarga del archivo fuente (.elp).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472835509-qurtyd20l","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>Este recurso se distribuye bajo licencia:</p>\n<p><strong>Creative Commons BY-SA 4.0</strong></p>\n<p>Se incluirá un enlace para la descarga del archivo fuente (.elp).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775472427242-m7wjsc8qj</odePageId>
+      <odeBlockId>block-1775473092250-sc80b0t3o</odeBlockId>
+      <blockName>Descargar</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775472427242-m7wjsc8qj</odePageId>
+          <odeBlockId>block-1775473092250-sc80b0t3o</odeBlockId>
+          <odeIdeviceId>idevice-1775473092245-zyg88wuac</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">BEING SAFE ONLINE</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Esta Situación de Aprendizaje está dirigida al alumnado de 5º de Educación Primaria (A1-A2) dentro del área de Lengua Extranjera: Inglés.
+
+El objetivo principal es que el alumnado desarrolle su competencia comunicativa en inglés mientras adquiere habilidades relacionadas con la competencia digital, especialmente en el uso seguro y responsable de internet y las redes sociales.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Richard Taylor Pleite</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license"><a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license" class="cc cc-by-sa"><span></span>Creative Commons BY-SA 4.0</a></span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
