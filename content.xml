@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>202604071041328N76YN</value>
+    <value>20260414102753QHMCDF</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>202604071041324QM28X</value>
+    <value>20260414102753DFZ14B</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -58,11 +58,11 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
   </odeProperty>
   <odeProperty>
     <key>pp_exelearning_version</key>
-    <value>v4.0.0-beta3</value>
+    <value>v4.0.0-rc1</value>
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1775471910761</value>
+    <value>1776154546395</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -95,11 +95,31 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odePageId>
+  <odePageId>page-mnyck34h-1nzuf33n1</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Título. Descripción de la SdA</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Título. Descripción de la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Título. Descripción de la SdA</value>
@@ -111,7 +131,7 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odePageId>
+      <odePageId>page-mnyck34h-1nzuf33n1</odePageId>
       <odeBlockId>block-1775471932290-l7ta20myz</odeBlockId>
       <blockName>Descripción de la situación de aprendizaje</blockName>
       <iconName></iconName>
@@ -140,7 +160,7 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odePageId>
+          <odePageId>page-mnyck34h-1nzuf33n1</odePageId>
           <odeBlockId>block-1775471932290-l7ta20myz</odeBlockId>
           <odeIdeviceId>idevice-1775471932288-xoacvhq6m</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -151,12 +171,24 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1775471932288-xoacvhq6m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta Situación de Aprendizaje está dirigida al alumnado de 5º de Educación Primaria (A1-A2) dentro del área de Lengua Extranjera: Inglés.</p>\n<p>El objetivo principal es que el alumnado desarrolle su competencia comunicativa en inglés mientras adquiere habilidades relacionadas con la competencia digital, especialmente en el uso seguro y responsable de internet y las redes sociales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odePageId>
+      <odePageId>page-mnyck34h-1nzuf33n1</odePageId>
       <odeBlockId>block-1775471978992-13f839g04</odeBlockId>
       <blockName>Datos básicos</blockName>
       <iconName></iconName>
@@ -185,7 +217,7 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odePageId>
+          <odePageId>page-mnyck34h-1nzuf33n1</odePageId>
           <odeBlockId>block-1775471978992-13f839g04</odeBlockId>
           <odeIdeviceId>idevice-1775471978990-0pzsmv305</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -200,12 +232,24 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1775471978990-0pzsmv305","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<ul>\n<li>Etapa: Educación Primaria</li>\n<li>Nivel: 5º de Primaria</li>\n<li>Área: Lengua Extranjera (Inglés)</li>\n<li>Relación interdisciplinar: Educación en Valores / Competencia Digital</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odePageId>
+      <odePageId>page-mnyck34h-1nzuf33n1</odePageId>
       <odeBlockId>block-1775472035325-vmalyr7mj</odeBlockId>
       <blockName>Agrupamientos y organización espacial</blockName>
       <iconName></iconName>
@@ -234,7 +278,7 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odePageId>
+          <odePageId>page-mnyck34h-1nzuf33n1</odePageId>
           <odeBlockId>block-1775472035325-vmalyr7mj</odeBlockId>
           <odeIdeviceId>idevice-1775472035324-5157e6bnn</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -255,12 +299,24 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472035324-5157e6bnn","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>Se emplearán diferentes agrupamientos siguiendo los principios del DUA:</p>\n<ul>\n<li>Gran grupo (presentación de contenidos)</li>\n<li>Trabajo en parejas (diálogos y role-play)</li>\n<li>Grupos cooperativos (creación de productos)</li>\n<li>Trabajo individual (reflexión y evaluación)</li>\n</ul>\n<p>Espacios:</p>\n<ul>\n<li>Aula ordinaria</li>\n<li>Aula TIC (si disponible)<br /> <br /> </li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odePageId>
+      <odePageId>page-mnyck34h-1nzuf33n1</odePageId>
       <odeBlockId>block-1775472102226-srq5odjlo</odeBlockId>
       <blockName>Temporalización</blockName>
       <iconName></iconName>
@@ -289,7 +345,7 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odePageId>
+          <odePageId>page-mnyck34h-1nzuf33n1</odePageId>
           <odeBlockId>block-1775472102226-srq5odjlo</odeBlockId>
           <odeIdeviceId>idevice-1775472102224-e0ujs2nyp</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -302,12 +358,24 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472102224-e0ujs2nyp","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<ul>\n<li>Duración: 6 sesiones</li>\n<li>Duración por sesión: 45-60 minutos</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odePageId>
+      <odePageId>page-mnyck34h-1nzuf33n1</odePageId>
       <odeBlockId>block-1775472146226-rphvvbuf7</odeBlockId>
       <blockName>Productos finales del alumnado</blockName>
       <iconName></iconName>
@@ -336,7 +404,7 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odePageId>
+          <odePageId>page-mnyck34h-1nzuf33n1</odePageId>
           <odeBlockId>block-1775472146226-rphvvbuf7</odeBlockId>
           <odeIdeviceId>idevice-1775472146223-l5h2nm13b</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -358,12 +426,24 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472146223-l5h2nm13b","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>El alumnado desarrollará:</p>\n<p>1. Infografía interactiva</p>\n<ul>\n<li>Tema: “How to be safe online”</li>\n<li>Herramientas: Canva / Genially</li>\n<li>Incluirá elementos interactivos (iconos, enlaces, etc.)</li>\n</ul>\n<p>2. Vídeo corto</p>\n<ul>\n<li>Tema: situaciones de riesgo en internet y cómo actuar</li>\n<li>Formato: role-play en inglés</li>\n<li>Duración: 1-2 minutos</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odePageId>
+      <odePageId>page-mnyck34h-1nzuf33n1</odePageId>
       <odeBlockId>block-1775472255120-g4h0qawna</odeBlockId>
       <blockName>Herramientas tecnológicas</blockName>
       <iconName></iconName>
@@ -392,7 +472,7 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odePageId>
+          <odePageId>page-mnyck34h-1nzuf33n1</odePageId>
           <odeBlockId>block-1775472255120-g4h0qawna</odeBlockId>
           <odeIdeviceId>idevice-1775472255118-oggy1uke7</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -407,6 +487,18 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472255118-oggy1uke7","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<ul>\n<li>Canva / Genially (infografía)</li>\n<li>iMovie / Clipchamp / móvil (vídeo)</li>\n<li>YouTube (vídeos de apoyo)</li>\n<li>Wordwall / Liveworksheets (actividades interactivas)</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -414,11 +506,31 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1775472335173-hj7zva69q</odePageId>
-  <odeParentPageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odeParentPageId>
+  <odePageId>page-mnyck34j-ioyd8o2rm</odePageId>
+  <odeParentPageId>page-mnyck34h-1nzuf33n1</odeParentPageId>
   <pageName>1. Intención educativa</pageName>
-  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>1. Intención educativa</value>
@@ -430,7 +542,7 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1775472335173-hj7zva69q</odePageId>
+      <odePageId>page-mnyck34j-ioyd8o2rm</odePageId>
       <odeBlockId>block-1775472471469-6svcbtxuy</odeBlockId>
       <blockName>Justificación</blockName>
       <iconName></iconName>
@@ -459,7 +571,7 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1775472335173-hj7zva69q</odePageId>
+          <odePageId>page-mnyck34j-ioyd8o2rm</odePageId>
           <odeBlockId>block-1775472471469-6svcbtxuy</odeBlockId>
           <odeIdeviceId>idevice-1775472471466-wskrwtohb</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -470,12 +582,24 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472471466-wskrwtohb","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>Esta SdA responde a la necesidad de integrar el aprendizaje del inglés con el desarrollo de la competencia digital, especialmente en edades tempranas donde el uso de dispositivos es cada vez más frecuente.</p>\n<p>Se pretende que el alumnado no solo aprenda vocabulario y estructuras lingüísticas, sino que también desarrolle una actitud crítica y responsable hacia el uso de internet.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-1775472335173-hj7zva69q</odePageId>
+      <odePageId>page-mnyck34j-ioyd8o2rm</odePageId>
       <odeBlockId>block-1775472493449-izsdaro2m</odeBlockId>
       <blockName>Relación con ODS</blockName>
       <iconName></iconName>
@@ -504,7 +628,7 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1775472335173-hj7zva69q</odePageId>
+          <odePageId>page-mnyck34j-ioyd8o2rm</odePageId>
           <odeBlockId>block-1775472493449-izsdaro2m</odeBlockId>
           <odeIdeviceId>idevice-1775472493448-ihl8ye9fg</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -517,12 +641,24 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472493448-ihl8ye9fg","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<ul>\n<li>ODS 4: Educación de calidad</li>\n<li>ODS 16: Paz, justicia e instituciones sólidas (uso responsable y seguro)</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-1775472335173-hj7zva69q</odePageId>
+      <odePageId>page-mnyck34j-ioyd8o2rm</odePageId>
       <odeBlockId>block-1775472518666-is5qhz47g</odeBlockId>
       <blockName>Retos del siglo XXI</blockName>
       <iconName></iconName>
@@ -551,7 +687,7 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1775472335173-hj7zva69q</odePageId>
+          <odePageId>page-mnyck34j-ioyd8o2rm</odePageId>
           <odeBlockId>block-1775472518666-is5qhz47g</odeBlockId>
           <odeIdeviceId>idevice-1775472518665-gpyu6vxoc</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -566,6 +702,18 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472518665-gpyu6vxoc","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<ul>\n<li>Uso responsable de la tecnología</li>\n<li>Seguridad digital</li>\n<li>Pensamiento crítico</li>\n<li>Ciudadanía digital</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -573,21 +721,45 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1775472353846-kd76uivvo</odePageId>
-  <odeParentPageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odeParentPageId>
+  <odePageId>page-mnyck34j-qvo3elhqc</odePageId>
+  <odeParentPageId>page-mnyck34h-1nzuf33n1</odeParentPageId>
   <pageName>2. Elementos curriculares</pageName>
-  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>2. Elementos curriculares</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1775472353846-kd76uivvo</odePageId>
+      <odePageId>page-mnyck34j-qvo3elhqc</odePageId>
       <odeBlockId>block-1775472549800-13vjrc53o</odeBlockId>
-      <blockName>Competencias clave</blockName>
+      <blockName>Competencias clave y descriptores operativos</blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
@@ -614,29 +786,67 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1775472353846-kd76uivvo</odePageId>
+          <odePageId>page-mnyck34j-qvo3elhqc</odePageId>
           <odeBlockId>block-1775472549800-13vjrc53o</odeBlockId>
           <odeIdeviceId>idevice-1775472549799-mctfj5g8h</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <ul>
-<li>Competencia en comunicación lingüística</li>
-<li>Competencia digital</li>
-<li>Competencia personal, social y aprender a aprender</li>
-<li>Competencia ciudadana</li>
+<li>CCL – Competencia en Comunicación Lingüística
+<ul>
+<li>CCL1, CCL2, CCL3, CCL4 y CCL5.<br /></li>
+</ul>
+</li>
+<li>CD – Competencia Digital
+<ul>
+<li>CD1, CD2, CD3 y CD4.<br /></li>
+</ul>
+</li>
+<li>CPSAA – Competencia Personal, Social y de Aprender a Aprender
+<ul>
+<li>CPSAA1 y CPSAA3.<br /></li>
+</ul>
+</li>
+<li>CC – Competencia Ciudadana
+<ul>
+<li>CC2 y CC3.<br /></li>
+</ul>
+</li>
+<li>CE – Competencia Emprendedora
+<ul>
+<li>CE1 y CE3.<br /></li>
+</ul>
+</li>
+<li>CCEC – Competencia en Conciencia y Expresión Culturales
+<ul>
+<li>CCEC1 y CCEC2.</li>
+</ul>
+</li>
 </ul>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472549799-mctfj5g8h","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<ul>\n<li>Competencia en comunicación lingüística</li>\n<li>Competencia digital</li>\n<li>Competencia personal, social y aprender a aprender</li>\n<li>Competencia ciudadana</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472549799-mctfj5g8h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>CCL – Competencia en Comunicación Lingüística\n<ul>\n<li>CCL1, CCL2, CCL3, CCL4 y CCL5.<br /></li>\n</ul>\n</li>\n<li>CD – Competencia Digital\n<ul>\n<li>CD1, CD2, CD3 y CD4.<br /></li>\n</ul>\n</li>\n<li>CPSAA – Competencia Personal, Social y de Aprender a Aprender\n<ul>\n<li>CPSAA1 y CPSAA3.<br /></li>\n</ul>\n</li>\n<li>CC – Competencia Ciudadana\n<ul>\n<li>CC2 y CC3.<br /></li>\n</ul>\n</li>\n<li>CE – Competencia Emprendedora\n<ul>\n<li>CE1 y CE3.<br /></li>\n</ul>\n</li>\n<li>CCEC – Competencia en Conciencia y Expresión Culturales\n<ul>\n<li>CCEC1 y CCEC2.</li>\n</ul>\n</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-1775472353846-kd76uivvo</odePageId>
+      <odePageId>page-mnyck34j-qvo3elhqc</odePageId>
       <odeBlockId>block-1775472574417-aaefe632p</odeBlockId>
-      <blockName>Competencias específicas (Inglés)</blockName>
+      <blockName>Competencias específicas del área de Lengua Extranjera</blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
@@ -663,27 +873,42 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1775472353846-kd76uivvo</odePageId>
+          <odePageId>page-mnyck34j-qvo3elhqc</odePageId>
           <odeBlockId>block-1775472574417-aaefe632p</odeBlockId>
           <odeIdeviceId>idevice-1775472574415-d9tt46vcb</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <ul>
-<li>Comprender textos orales y escritos sencillos</li>
-<li>Producir mensajes orales breves</li>
-<li>Interactuar en situaciones cotidianas</li>
-<li>Mediar en situaciones simples</li>
+<li><strong>Comprender el sentido general e información específica de textos orales y multimodales</strong>, breves y sencillos, sobre temas cotidianos, utilizando estrategias básicas de comprensión.<br /></li>
+<li><strong>Comprender el sentido global e información específica de textos escritos y multimodales</strong>, breves y sencillos.<br /></li>
+<li><strong>Producir textos orales y multimodales breves y sencillos</strong>, adecuados a la situación comunicativa, con apoyo de recursos analógicos y digitales.<br /></li>
+<li><strong>Producir textos escritos y multimodales breves y sencillos</strong>, con finalidad comunicativa y creativa.<br /></li>
+<li><strong>Interactuar con otras personas utilizando expresiones cotidianas</strong>, empleando estrategias básicas que favorezcan la comunicación.<br /></li>
+<li><strong>Mediar en situaciones comunicativas sencillas</strong>, facilitando la comprensión y la transmisión de información.<br /></li>
+<li><strong>Valorar la diversidad lingüística y cultural</strong>, desarrollando actitudes de respeto e interés por otras lenguas y culturas.</li>
 </ul>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472574415-d9tt46vcb","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<ul>\n<li>Comprender textos orales y escritos sencillos</li>\n<li>Producir mensajes orales breves</li>\n<li>Interactuar en situaciones cotidianas</li>\n<li>Mediar en situaciones simples</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472574415-d9tt46vcb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>Comprender el sentido general e información específica de textos orales y multimodales</strong>, breves y sencillos, sobre temas cotidianos, utilizando estrategias básicas de comprensión.<br /></li>\n<li><strong>Comprender el sentido global e información específica de textos escritos y multimodales</strong>, breves y sencillos.<br /></li>\n<li><strong>Producir textos orales y multimodales breves y sencillos</strong>, adecuados a la situación comunicativa, con apoyo de recursos analógicos y digitales.<br /></li>\n<li><strong>Producir textos escritos y multimodales breves y sencillos</strong>, con finalidad comunicativa y creativa.<br /></li>\n<li><strong>Interactuar con otras personas utilizando expresiones cotidianas</strong>, empleando estrategias básicas que favorezcan la comunicación.<br /></li>\n<li><strong>Mediar en situaciones comunicativas sencillas</strong>, facilitando la comprensión y la transmisión de información.<br /></li>\n<li><strong>Valorar la diversidad lingüística y cultural</strong>, desarrollando actitudes de respeto e interés por otras lenguas y culturas.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-1775472353846-kd76uivvo</odePageId>
+      <odePageId>page-mnyck34j-qvo3elhqc</odePageId>
       <odeBlockId>block-1775472602116-p0mosmh25</odeBlockId>
       <blockName>Saberes básicos</blockName>
       <iconName></iconName>
@@ -712,28 +937,65 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1775472353846-kd76uivvo</odePageId>
+          <odePageId>page-mnyck34j-qvo3elhqc</odePageId>
           <odeBlockId>block-1775472602116-p0mosmh25</odeBlockId>
           <odeIdeviceId>idevice-1775472602115-2d54ahqlf</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <ul>
-<li>Vocabulario: internet, personal information, feelings</li>
-<li>Estructuras:Can / can’t</li>
-<li>Imperatives (Don’t share, Be careful…)</li>
-<li>Estrategias de comprensión</li>
-<li>Uso responsable de tecnología</li>
+    <p><strong>A. Comunicación</strong><br /></p>
+<ul>
+<li>Léxico básico de alta frecuencia relacionado con la vida cotidiana y el entorno digital: internet, dispositivos electrónicos y seguridad en la red.<br /></li>
+<li>Funciones comunicativas:
+<ul>
+<li>Dar y pedir información.<br /></li>
+<li>Expresar normas y recomendaciones.<br /></li>
+<li>Describir situaciones cotidianas.</li>
+</ul>
+</li>
+<li>Estructuras sintácticas básicas:
+<ul>
+<li>Uso de can / can’t.<br /></li>
+<li>Imperativos (Don’t share, Be careful, Protect your password).<br /></li>
+</ul>
+</li>
+<li>Modelos discursivos sencillos, orales y escritos.<br /></li>
+<li>Estrategias básicas de comprensión, producción e interacción.<br /></li>
+<li>Uso guiado de herramientas digitales para la elaboración de productos multimodales.<br /></li>
+</ul>
+<p><strong>B. Plurilingüismo</strong><br /></p>
+<ul>
+<li>Estrategias de transferencia entre lenguas.<br /></li>
+<li>Comparación entre el inglés y la lengua materna.<br /></li>
+<li>Desarrollo de estrategias para la mejora del aprendizaje lingüístico.<br /><strong></strong></li>
+</ul>
+<p><strong>C. Interculturalidad</strong></p>
+<ul>
+<li>Uso responsable y seguro de las tecnologías digitales.<br /></li>
+<li>Respeto y valoración de la diversidad cultural y lingüística.<br /></li>
+<li>Desarrollo de la ciudadanía digital responsable.</li>
 </ul>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472602115-2d54ahqlf","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<ul>\n<li>Vocabulario: internet, personal information, feelings</li>\n<li>Estructuras:Can / can’t</li>\n<li>Imperatives (Don’t share, Be careful…)</li>\n<li>Estrategias de comprensión</li>\n<li>Uso responsable de tecnología</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472602115-2d54ahqlf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>A. Comunicación</strong><br /></p>\n<ul>\n<li>Léxico básico de alta frecuencia relacionado con la vida cotidiana y el entorno digital: internet, dispositivos electrónicos y seguridad en la red.<br /></li>\n<li>Funciones comunicativas:\n<ul>\n<li>Dar y pedir información.<br /></li>\n<li>Expresar normas y recomendaciones.<br /></li>\n<li>Describir situaciones cotidianas.</li>\n</ul>\n</li>\n<li>Estructuras sintácticas básicas:\n<ul>\n<li>Uso de can / can’t.<br /></li>\n<li>Imperativos (Don’t share, Be careful, Protect your password).<br /></li>\n</ul>\n</li>\n<li>Modelos discursivos sencillos, orales y escritos.<br /></li>\n<li>Estrategias básicas de comprensión, producción e interacción.<br /></li>\n<li>Uso guiado de herramientas digitales para la elaboración de productos multimodales.<br /></li>\n</ul>\n<p><strong>B. Plurilingüismo</strong><br /></p>\n<ul>\n<li>Estrategias de transferencia entre lenguas.<br /></li>\n<li>Comparación entre el inglés y la lengua materna.<br /></li>\n<li>Desarrollo de estrategias para la mejora del aprendizaje lingüístico.<br /><strong></strong></li>\n</ul>\n<p><strong>C. Interculturalidad</strong></p>\n<ul>\n<li>Uso responsable y seguro de las tecnologías digitales.<br /></li>\n<li>Respeto y valoración de la diversidad cultural y lingüística.<br /></li>\n<li>Desarrollo de la ciudadanía digital responsable.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-1775472353846-kd76uivvo</odePageId>
+      <odePageId>page-mnyck34j-qvo3elhqc</odePageId>
       <odeBlockId>block-1775472624233-ctt9zrknt</odeBlockId>
       <blockName>Criterios de evaluación</blockName>
       <iconName></iconName>
@@ -762,21 +1024,57 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1775472353846-kd76uivvo</odePageId>
+          <odePageId>page-mnyck34j-qvo3elhqc</odePageId>
           <odeBlockId>block-1775472624233-ctt9zrknt</odeBlockId>
           <odeIdeviceId>idevice-1775472624231-csufki0el</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <ul>
-<li>Comprende instrucciones básicas relacionadas con seguridad digital</li>
-<li>Produce mensajes sencillos en inglés sobre normas de uso de internet</li>
-<li>Participa en interacciones orales guiadas</li>
-<li>Crea un producto digital sencillo (infografía/vídeo)</li>
+<li>
+<p><strong>Competencia específica 1</strong></p>
+<p>1.1. Comprender el sentido global y la información específica de textos orales y multimodales breves y sencillos sobre temas cotidianos.<br /></p>
+</li>
+<li>
+<p><strong>Competencia específica 2</strong></p>
+<p>2.1. Comprender el sentido global y la información específica de textos escritos y multimodales breves y sencillos.<br /></p>
+</li>
+<li>
+<p><strong>Competencia específica 3</strong></p>
+<p>3.1. Producir textos orales breves y sencillos, utilizando estrategias básicas y recursos digitales.<br /></p>
+</li>
+<li>
+<p><strong>Competencia específica 4</strong></p>
+<p>4.1. Producir textos escritos y multimodales breves y sencillos, adecuados a la situación comunicativa.<br /></p>
+</li>
+<li>
+<p><strong>Competencia específica 5</strong></p>
+<p>5.1. Participar en interacciones comunicativas sencillas, utilizando estrategias básicas de cooperación.<br /></p>
+</li>
+<li>
+<p><strong>Competencia específica 6</strong></p>
+<p>6.1. Mediar en situaciones comunicativas simples, facilitando la comprensión de mensajes.<br /></p>
+</li>
+<li>
+<p><strong>Competencia específica 7</strong></p>
+<p>7.1. Mostrar interés por la diversidad lingüística y cultural y por el uso responsable de las tecnologías.</p>
+</li>
 </ul>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472624231-csufki0el","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<ul>\n<li>Comprende instrucciones básicas relacionadas con seguridad digital</li>\n<li>Produce mensajes sencillos en inglés sobre normas de uso de internet</li>\n<li>Participa en interacciones orales guiadas</li>\n<li>Crea un producto digital sencillo (infografía/vídeo)</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472624231-csufki0el","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>\n<p><strong>Competencia específica 1</strong></p>\n<p>1.1. Comprender el sentido global y la información específica de textos orales y multimodales breves y sencillos sobre temas cotidianos.<br /></p>\n</li>\n<li>\n<p><strong>Competencia específica 2</strong></p>\n<p>2.1. Comprender el sentido global y la información específica de textos escritos y multimodales breves y sencillos.<br /></p>\n</li>\n<li>\n<p><strong>Competencia específica 3</strong></p>\n<p>3.1. Producir textos orales breves y sencillos, utilizando estrategias básicas y recursos digitales.<br /></p>\n</li>\n<li>\n<p><strong>Competencia específica 4</strong></p>\n<p>4.1. Producir textos escritos y multimodales breves y sencillos, adecuados a la situación comunicativa.<br /></p>\n</li>\n<li>\n<p><strong>Competencia específica 5</strong></p>\n<p>5.1. Participar en interacciones comunicativas sencillas, utilizando estrategias básicas de cooperación.<br /></p>\n</li>\n<li>\n<p><strong>Competencia específica 6</strong></p>\n<p>6.1. Mediar en situaciones comunicativas simples, facilitando la comprensión de mensajes.<br /></p>\n</li>\n<li>\n<p><strong>Competencia específica 7</strong></p>\n<p>7.1. Mostrar interés por la diversidad lingüística y cultural y por el uso responsable de las tecnologías.</p>\n</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -784,19 +1082,43 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1775472368634-gf6ssjor2</odePageId>
-  <odeParentPageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odeParentPageId>
+  <odePageId>page-mnyck34j-ugrojvi65</odePageId>
+  <odeParentPageId>page-mnyck34h-1nzuf33n1</odeParentPageId>
   <pageName>3. Metodologías activas</pageName>
-  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>3. Metodologías activas</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1775472368634-gf6ssjor2</odePageId>
+      <odePageId>page-mnyck34j-ugrojvi65</odePageId>
       <odeBlockId>block-1775472726382-1l6iys7zu</odeBlockId>
       <blockName>Metodologías</blockName>
       <iconName></iconName>
@@ -825,7 +1147,7 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1775472368634-gf6ssjor2</odePageId>
+          <odePageId>page-mnyck34j-ugrojvi65</odePageId>
           <odeBlockId>block-1775472726382-1l6iys7zu</odeBlockId>
           <odeIdeviceId>idevice-1775472726380-8ktlz1gnc</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -841,6 +1163,18 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472726380-8ktlz1gnc","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>Se empleará principalmente:</p>\n<ul>\n<li>Aprendizaje Basado en Proyectos (ABP)</li>\n<li>Aprendizaje cooperativo</li>\n<li>Gamificación (actividades tipo juego)<br /></li>\n</ul>\n<p>El alumnado trabajará de forma activa, participativa y significativa, construyendo su propio aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -848,19 +1182,43 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1775472390884-ktxbxi70c</odePageId>
-  <odeParentPageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odeParentPageId>
+  <odePageId>page-mnyck34j-tq3nb7e0o</odePageId>
+  <odeParentPageId>page-mnyck34h-1nzuf33n1</odeParentPageId>
   <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
-  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>4. Vinculación con los proyectos y programas del centro</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1775472390884-ktxbxi70c</odePageId>
+      <odePageId>page-mnyck34j-tq3nb7e0o</odePageId>
       <odeBlockId>block-1775472773896-mp1ok36rm</odeBlockId>
       <blockName>Vinculación con proyectos y programas</blockName>
       <iconName></iconName>
@@ -889,7 +1247,7 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1775472390884-ktxbxi70c</odePageId>
+          <odePageId>page-mnyck34j-tq3nb7e0o</odePageId>
           <odeBlockId>block-1775472773896-mp1ok36rm</odeBlockId>
           <odeIdeviceId>idevice-1775472773896-rlwo7fiis</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -904,6 +1262,18 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472773896-rlwo7fiis","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<ul>\n<li>PLEI (Plan de Lectura, Escritura e Investigación)</li>\n<li>Plan Digital de Centro (PDC)</li>\n<li>Plan de Acción Tutorial (PAT)<br /></li>\n</ul>\n<p>La SdA contribuye al desarrollo de la competencia digital y a la educación en valores.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -911,11 +1281,31 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1775472406513-qzmx5eqx4</odePageId>
-  <odeParentPageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odeParentPageId>
+  <odePageId>page-mnyck34j-bt7zw1dcc</odePageId>
+  <odeParentPageId>page-mnyck34h-1nzuf33n1</odeParentPageId>
   <pageName>5. Actividades complementarias y extraescolares</pageName>
-  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>5. Actividades complementarias y extraescolares</value>
@@ -927,7 +1317,7 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1775472406513-qzmx5eqx4</odePageId>
+      <odePageId>page-mnyck34j-bt7zw1dcc</odePageId>
       <odeBlockId>block-1775472805746-ppx4yb3jy</odeBlockId>
       <blockName>Actividades</blockName>
       <iconName></iconName>
@@ -956,7 +1346,7 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1775472406513-qzmx5eqx4</odePageId>
+          <odePageId>page-mnyck34j-bt7zw1dcc</odePageId>
           <odeBlockId>block-1775472805746-ppx4yb3jy</odeBlockId>
           <odeIdeviceId>idevice-1775472805744-hlenkswb5</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -970,6 +1360,18 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472805744-hlenkswb5","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<ul>\n<li>Charla sobre seguridad en internet (Policía / experto TIC)</li>\n<li>Visionado de vídeos educativos</li>\n<li>Participación en el Día de Internet Seguro</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -977,19 +1379,43 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1775472427242-m7wjsc8qj</odePageId>
-  <odeParentPageId>089470d7-b06c-40ea-b06e-5b48fb5f1d2b</odeParentPageId>
+  <odePageId>page-mnyck34k-j6nxds0me</odePageId>
+  <odeParentPageId>page-mnyck34h-1nzuf33n1</odeParentPageId>
   <pageName>6. Atribución y descarga</pageName>
-  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>6. Atribución y descarga</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1775472427242-m7wjsc8qj</odePageId>
+      <odePageId>page-mnyck34k-j6nxds0me</odePageId>
       <odeBlockId>block-1775472835510-d18e574fw</odeBlockId>
       <blockName>Licencia</blockName>
       <iconName></iconName>
@@ -1018,7 +1444,7 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1775472427242-m7wjsc8qj</odePageId>
+          <odePageId>page-mnyck34k-j6nxds0me</odePageId>
           <odeBlockId>block-1775472835510-d18e574fw</odeBlockId>
           <odeIdeviceId>idevice-1775472835509-qurtyd20l</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1030,12 +1456,24 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1775472835509-qurtyd20l","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>Este recurso se distribuye bajo licencia:</p>\n<p><strong>Creative Commons BY-SA 4.0</strong></p>\n<p>Se incluirá un enlace para la descarga del archivo fuente (.elp).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-1775472427242-m7wjsc8qj</odePageId>
+      <odePageId>page-mnyck34k-j6nxds0me</odePageId>
       <odeBlockId>block-1775473092250-sc80b0t3o</odeBlockId>
       <blockName>Descargar</blockName>
       <iconName></iconName>
@@ -1064,7 +1502,7 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1775472427242-m7wjsc8qj</odePageId>
+          <odePageId>page-mnyck34k-j6nxds0me</odePageId>
           <odeBlockId>block-1775473092250-sc80b0t3o</odeBlockId>
           <odeIdeviceId>idevice-1775473092245-zyg88wuac</odeIdeviceId>
           <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
@@ -1094,6 +1532,18 @@ El objetivo principal es que el alumnado desarrolle su competencia comunicativa 
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
